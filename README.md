@@ -4,17 +4,24 @@ This project demonstrates a simplified single-line diagram of a grid-connected b
 
 ![Single Line Diagram](singlelinediagram.jpg)
 
+
 ## Description of Diagram
 
 The diagram contains the following commponents from top to bottom:
 
 -AC Power Supply (Connection to Grid)
+
 -Circuit Breaker
+
 -Step-Down Transformer (reduces AC voltage to a lower safer amount for batteries)
+
 -Busbar (distributes power among the 2 batteries)
+
 -2x AC/DC Power Inverter
+
 -2x Batteries 
+
 
 ## Skills Demonstrated
 
-AutoCAD: Block creation, layer management, AutoCAD command usage, usage of standardized power symbols, simple shape sketching
+**AutoCAD:** Block creation, layer management, AutoCAD command usage, usage of standardized power symbols, simple shape sketching
